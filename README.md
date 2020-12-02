@@ -1,6 +1,6 @@
 # Serverless-MongoDB
 
-This is a test API that uses MongoDB with Serverless architecture. It makes use of the MongoDB M001 example which can be found [here](https://university.mongodb.com/courses/M001/about)
+This is a test API that uses MongoDB with Serverless architecture. It extends the MongoDB M001 example which can be found [here](https://university.mongodb.com/courses/M001/about) and improves this by practices mentioned by [Adnan Rahic](https://github.com/adnanrahic)
 
 ## Installation
 
